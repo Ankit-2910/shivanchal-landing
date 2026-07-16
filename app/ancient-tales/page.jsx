@@ -22,6 +22,17 @@ export default function AncientTalesHome() {
           <a href="/ancient-tales/terms" style={navLink}>Terms of Service</a>
         </div>
 
+        <h2 style={h2}>Purpose of this application</h2>
+        <p style={p}>
+          Ancient Tales Publisher exists to automatically re-publish a video,
+          already uploaded to the operator's own YouTube channel, to the
+          operator's own Facebook Page and Instagram account, using the exact
+          same title and description that YouTube shows for that video. It
+          uses the Google Drive API and Google Sheets API, under the
+          operator's own Google account, purely as temporary storage and a
+          publish log for this single-user workflow.
+        </p>
+
         <h2 style={h2}>What this is</h2>
         <p style={p}>
           Ancient Tales Publisher is a private automation workflow built and

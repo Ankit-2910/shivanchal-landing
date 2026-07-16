@@ -2,7 +2,10 @@ import './globals.css';
 
 export const metadata = {
   title: 'Shivanchal — AI Automation Platform',
-  description: 'AI Automation & Operations Transformation Specialist. Triage Engine, FinePrint, Bidsight, Dashboard — 5 AI apps for SMEs.'
+  description: 'AI Automation & Operations Transformation Specialist. Triage Engine, FinePrint, Bidsight, Dashboard — 5 AI apps for SMEs.',
+  verification: {
+    google: '_NYoXs0_6DYSunXwIZ8NitTXkSLUFY4g9dSUw0kYt_A',
+  },
 };
 
 export default function RootLayout({ children }) {
